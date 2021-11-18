@@ -1,0 +1,26 @@
+.bg-deeper-green {
+    background-color: #3DD9BA;
+    color: white;
+}
+
+
+.bg-lighter-green {
+    background-color: #44DBBD;
+    color: white;
+}
+
+text-blue {
+    color: #174165
+}
+
+
+.bg-blue {
+    background-color: #174165;
+    color: #3DD9BA;
+    font-weight: bold;
+}
+
+.icon-blue {
+    
+    color: #174165;
+}
